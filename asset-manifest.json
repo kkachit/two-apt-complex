@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/two-apt-complex/static/css/main.1e91539a.css",
-    "main.js": "/two-apt-complex/static/js/main.52062686.js",
+    "main.js": "/two-apt-complex/static/js/main.e5234b3a.js",
     "static/js/787.df9a74de.chunk.js": "/two-apt-complex/static/js/787.df9a74de.chunk.js",
     "static/media/BMJUA_ttf.ttf": "/two-apt-complex/static/media/BMJUA_ttf.bf12d2d886260d73277b.ttf",
     "static/media/BMJUA_otf.otf": "/two-apt-complex/static/media/BMJUA_otf.900a7b419c1f295c08bd.otf",
@@ -10,11 +10,11 @@
     "static/media/naver.svg": "/two-apt-complex/static/media/naver.53c5a80f5728d1584a867607790ecb5d.svg",
     "static/media/kakao.svg": "/two-apt-complex/static/media/kakao.e75d51d704aa308b4a415366b45e032b.svg",
     "main.1e91539a.css.map": "/two-apt-complex/static/css/main.1e91539a.css.map",
-    "main.52062686.js.map": "/two-apt-complex/static/js/main.52062686.js.map",
+    "main.e5234b3a.js.map": "/two-apt-complex/static/js/main.e5234b3a.js.map",
     "787.df9a74de.chunk.js.map": "/two-apt-complex/static/js/787.df9a74de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e91539a.css",
-    "static/js/main.52062686.js"
+    "static/js/main.e5234b3a.js"
   ]
 }
